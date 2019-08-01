@@ -8,3 +8,6 @@
 /captures
 .externalNativeBuild
 /app/.idea
+/.idea/workspace.xml
+/.idea/misc.xml
+/.idea/vcs.xml
