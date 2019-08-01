@@ -1,0 +1,8 @@
+.git
+*.iml
+/local.properties
+.DS_Store
+/app/build
+/captures
+.externalNativeBuild
+/app/.idea
